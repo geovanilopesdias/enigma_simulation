@@ -25,7 +25,7 @@ chars = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', '
 
 def index_drawer():
     """
-    Returns a list with values from 0 to 25 to encrypt messages according to the chars list above defined.
+    Returns a list with values from 0 to the chars list length, to encrypt messages according to the chars list above defined.
     """
     keyboard = len(chars)
     from random import randint
