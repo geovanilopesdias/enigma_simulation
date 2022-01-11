@@ -1,7 +1,6 @@
 package enigma_simulator_betha;
 
 import static java.lang.Math.random;
-import java.util.Arrays;
 import java.util.Scanner;
 
 /**
